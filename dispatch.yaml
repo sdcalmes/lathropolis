@@ -1,0 +1,5 @@
+dispatch:
+  - url: "sdcalmes.com/*"
+    service: default
+  - url: "lathropolis.sdcalmes.com/*"
+    service: lathropolis

@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://lathropolis.now.sh/"
 languageCode = "en-us"
 title = "Lathropolis"
 theme = "blackburn"
