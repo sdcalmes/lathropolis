@@ -16,7 +16,7 @@ paginate = 10
   subtitle = "Let's Shred."
   brand = "Lathropolis FFL"
   googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
+  #disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
@@ -34,13 +34,13 @@ paginate = 10
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 2
     identifier = "post"
-    url = "/posts/"
+    url = "/post/"
   [[menu.main]]
     name = "History"
     identifier = "history"
     pre = "<i class='fa fa-history fa-fw'></i>"
     weight = 3
-    url = "/history/"
+    url = "/post/history/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
@@ -56,35 +56,35 @@ paginate = 10
   [[menu.main]]
     parent = "history"
     name = "2018"
-    url = "/history/2018/"
+    url = "/post/history/2018/"
     weight = 20
 
   [[menu.main]]
     parent = "history"
     name = "2017"
-    url = "/history/2017/"
+    url = "/post/history/2017/"
     weight = 20
 
   [[menu.main]]
     parent = "history"
     name = "2016"
-    url = "/history/2016/"
+    url = "/post/history/2016/"
     weight = 20
 
   [[menu.main]]
     parent = "history"
     name = "2015"
-    url = "/history/2015/"
+    url = "/post/history/2015/"
     weight = 20
 
   [[menu.main]]
     parent = "history"
     name = "2014"
-    url = "/history/2014/"
+    url = "/post/history/2014/"
     weight = 20
 
   [[menu.main]]
     parent = "history"
     name = "2013"
-    url = "/history/2013/"
+    url = "/post/history/2013/"
     weight = 20
