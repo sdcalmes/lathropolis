@@ -40,3 +40,6 @@ Tuck Tuck Grey Tuck (Drew, 4-0-0) v. KittleMyTittles (Joe, 2-2-0)
 First of all, it's Duck Duck Goose. Secondly, Tuck Tuck Grey Tuck can be easily compared to Master hand for the simple reason that he's really fucking hard to beat. Is he maniupulating the stats? Is he colluding via email with the Sleeper staff to get a leg up? Or is he just really good at Fantasy Football? I have a bad feeling it's the latter. But just like Master Hand, a 7-year-old can beat them given enough force restarts of their Nintendo 64. In my opion, the real threat to the jacket is KittleMyTittles. If Charlie Markus has taught me anything, it takes years to master Pikachu's character, but once you do, he can't be stopped. Much like a young Charlie Markus using Pikachu, many of KittleMyTittles's players, such as Baker Mayfield, Antonio Brown, Marquise HOLLYWOOD! Brown, and others, have yet to reach their true potential. I fear that once they do, KittleMyTittles will become a force to be reckoned with.
 
 Thats all for now folks. I hope the fantasy gods bring you good luck on the waiver wire this week  and as always, Saquon DEEZ NUTZ.
+
+
+### Please fill out the Week 2 Coaches Poll [HERE](https://www.surveymonkey.com/r/38RDCSK)
