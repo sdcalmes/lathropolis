@@ -1,7 +1,7 @@
 ---
 title: "2019 Week 4 Recap"
 date: 2019-10-01T21:04:49-05:00
-draft: true
+draft: false
 ---
 
 # Week 4 Recap
