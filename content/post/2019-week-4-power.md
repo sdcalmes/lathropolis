@@ -6,6 +6,10 @@ draft: false
 
 ### Still Last.
 
+First things first, only two people read the week 4 recap to completeness. I know it wasn't the best..but damn :'''(
+
+#### Anyways...
+
 For two weeks in a row, Justin and I bring up the rear while Andy and Drioux take the top.
 
 I've also learned that Justin has the largest bias towards his own team, guy voted himself SECOND.
