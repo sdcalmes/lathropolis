@@ -16,8 +16,7 @@ draft: false
 
 <object data="../../2019/week9/ffrecappdf.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../../2019/week9/ffrecappdf.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../2019/week9/ffrecappdf
-        .pdf
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../2019/week9/ffrecappdf.pdf
         ">Download PDF</a>.</p>
     </embed>
 </object>
